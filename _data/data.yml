@@ -150,10 +150,6 @@ projects:
         tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
       - title: Delta
-        <Delta href="https://www.mozilla.com/">
-        External Link
-        </Delta>
-        #link: "#https://translate.google.com/?ie=UTF-8&hl=zh-CN&client=tw-ob#en/zh-CN/translate.google.com/?ie=UTF-8&hl=zh-CN&client=tw-ob#en/zh-CN/"
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
@@ -165,6 +161,9 @@ publications:
 
     papers:
       - title: The Art of Computer Programming
+        <a href="https://www.mozilla.com/">
+        External Link
+        </a>
         authors: Donald E. Knuth
         conference: Addison-Wesley, 1968
 
@@ -173,6 +172,9 @@ publications:
         conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
 
       - title: A syntax directed compiler for Algol 60
+        <Delta href="https://www.mozilla.com/">
+        External Link
+        </Delta>
         authors: Edgar T. Irons
         conference: "Comm. ACM 4 (1961), 51–55"
 
