@@ -160,10 +160,7 @@ publications:
       bibendum fringilla a eu lectus.
 
     papers:
-      - title: The Art of Computer Programming
-        <a href="https://www.mozilla.com/">
-        External Link
-        </a>
+      - title: The Art 
         authors: Donald E. Knuth
         conference: Addison-Wesley, 1968
 
