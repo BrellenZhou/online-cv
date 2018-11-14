@@ -150,9 +150,9 @@ projects:
         tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
       - title: Delta
-        <a href="https://www.mozilla.com/">
+        <Delta href="https://www.mozilla.com/">
         External Link
-        </a>
+        </Delta>
         #link: "#https://translate.google.com/?ie=UTF-8&hl=zh-CN&client=tw-ob#en/zh-CN/translate.google.com/?ie=UTF-8&hl=zh-CN&client=tw-ob#en/zh-CN/"
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
